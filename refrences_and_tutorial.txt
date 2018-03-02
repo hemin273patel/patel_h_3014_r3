@@ -1,0 +1,29 @@
+Name : Hemin Patel
+
+this is the link where i find my error of database:
+
+https://www.heidisql.com/forum.php?t=6175
+
+https://stackoverflow.com/questions/16293681/1136-column-count-doesnt-match-value-count-at-row-1
+
+Links to Guides:
+
+https://stackoverflow.com/questions/16421617/if-value-is-greater-lesser-than-xyz
+
+http://php.net/manual/en/language.operators.comparison.php
+
+https://stackoverflow.com/questions/13933078/check-if-user-is-admin-or-normal-user-php-session-and-mysql
+
+one more time limit tutorial
+https://stackoverflow.com/questions/520237/how-do-i-expire-a-php-session-after-30-minutes
+
+https://www.sitepoint.com/community/t/increment-variable-value-on-button-click/3557/2
+
+https://stackoverflow.com/questions/10743807/php-function-to-increment-variable-by-1-each-time
+
+https://adayinthelifeof.nl/2015/10/13/incrementing-values-in-php/
+
+for the time limit; not done in my mroject, for just refrence
+http://php.net/manual/en/function.set-time-limit.php
+
+http://php.net/manual/en/language.operators.increment.php
